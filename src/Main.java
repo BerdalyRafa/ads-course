@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 
 public class Main {
-    // Function to check if a number is prime
 
     public static int factorial(int n) {
         if (n == 0 || n == 1) {
